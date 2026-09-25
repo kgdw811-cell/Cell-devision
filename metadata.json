@@ -1,0 +1,7 @@
+{
+  "name": "유전 가계도 마스터",
+  "description": "중학교 3학년 과학 '사람의 유전' 단원을 위한 인터랙티브 가계도 분석 탐구 웹앱입니다. 상염색체, ABO 혈액형, 반성 유전(색맹)의 유전자형을 단계별 힌트와 역추적으로 학습합니다.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
